@@ -175,12 +175,12 @@ body {
 .saved-address p {
     display: block;
     width: auto;
+    height: auto;
     float: left;
-    font-size: 14pt;
+    font-size: 15pt;
     color: #242A4B;
     opacity: 100%;
-    margin: 0px;
-    margin-left:10px;   
+    margin: 5px 0px 5px 10px;   
 }
 
 /*-----------------------------------------------
@@ -193,7 +193,7 @@ body {
     background-color: #EDEDED;
     content: " ";
     width: 375pt;
-    margin: 40px -15px 0px -15px;
+    margin: 50px -15px 5px -15px;
 }
 .divider-10pt:after {
     display: block;
@@ -201,7 +201,7 @@ body {
     background-color: #EFF0F7;
     content: " ";
     width: 375pt;
-    margin: 40px -15px 0px -15px;
+    margin: 25px -15px 0px -15px;
 }
 
 img.ri:empty
