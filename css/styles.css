@@ -68,7 +68,7 @@ body {
 }
 .searchBar > input {
   border: none;
-  width: calc(100%-15px-19.07pt);
+  width: calc(100% - 50px);
   height: auto; 
   background: transparent;
   font-size: 14pt;
@@ -132,7 +132,6 @@ body {
     width: auto;
     white-space: nowrap;
     overflow: hidden;
-    
 }
 .location-result p {
     color: #242A4B;
