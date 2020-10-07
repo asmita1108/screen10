@@ -132,7 +132,7 @@ body {
     width: auto;
     white-space: nowrap;
     overflow: hidden;
-    text-overflow: ellipsis;
+    
 }
 .location-result p {
     color: #242A4B;
@@ -239,8 +239,8 @@ img.ri:empty
 .result-text {
     display: block;
     float: left;
-    width: 350px;
-    height: 39pt;
+    width: calc(100% - 54px);
+    height: 50pt;
     font-size: 15pt;
     text-transform: capitalize;
 }
